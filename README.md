@@ -14,18 +14,18 @@ BeatSaberのカスタムソングフォルダを追加する設定ツールで�
 
 # ライセンスと著作権について
 
-onesaber_convert はプログラム本体と各種ライブラリから構成されています。
+SubSongFolderSetting はプログラム本体と各種ライブラリから構成されています。
 
-onesaber_convert のソースコード及び各種ドキュメントについての著作権は作者であるリュナン(Twitter [@rynan4818](https://twitter.com/rynan4818))が有します。
+SubSongFolderSetting のソースコード及び各種ドキュメントについての著作権は作者であるリュナン(Twitter [@rynan4818](https://twitter.com/rynan4818))が有します。
 ライセンスは MIT ライセンスを適用します。
 
-それ以外の onesaber_convert.exe に内包しているrubyスクリプトやバイナリライブラリは、それぞれの作者に著作権があります。配布ライセンスは、それぞれ異なるため詳細は下記の入手元を確認して下さい。
+それ以外の SubSongFolderSetting.exe に内包しているrubyスクリプトやバイナリライブラリは、それぞれの作者に著作権があります。配布ライセンスは、それぞれ異なるため詳細は下記の入手元を確認して下さい。
 
 # 開発環境、各種ライブラリ入手先
 
 各ツールの入手先、開発者・製作者（敬称略）、ライセンスは以下の通りです。
 
-bs-mapdown-assistant.exe に内包している具体的なライブラリファイルの詳細は [Exerbレシピファイル](source/core_cui.exy) を参照して下さい。
+SubSongFolderSetting.exe に内包している具体的なライブラリファイルの詳細は [Exerbレシピファイル](source/core_cui.exy) を参照して下さい。
 
 ## Ruby本体入手先
 - ActiveScriptRuby(1.8.7-p330)
