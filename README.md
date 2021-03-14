@@ -1,0 +1,2 @@
+# SubSongFolderSetting
+SongCoreの追加譜面フォルダの設定GUIツール
